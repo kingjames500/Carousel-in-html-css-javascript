@@ -12,10 +12,6 @@ body {
   background: url(./images/background.jpg) #030728 no-repeat center;
 }
 
-.swiper {
-  border: 4px red solid;
-  /* height: 300px; */
-}
 
 .slider-wrapper {
   overflow: hidden;
